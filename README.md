@@ -68,10 +68,10 @@ model_checkpoint = 'checkpoints/model.pth'
 avatar_size = 128
 num_features = 256
 
-##Contributing
+Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
-##License
+License
 This project is licensed under the MIT License.
 
 
